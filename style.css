@@ -1,0 +1,32 @@
+body {
+    background: lightslategray;
+}
+
+#title  {
+    color: ghostwhite;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: ghostwhite;
+    text-align: center;
+    font-size: medium;
+}
+
+div.images {
+    max-width: 500px;
+    max-height: 600px;
+    border: 3px;
+    border-style: solid;
+    border-color: ghostwhite;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#insta {
+    text-align: center;
+    color: coral;
+    font-size: xx-large;
+}

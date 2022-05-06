@@ -9,10 +9,11 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 
-h2 {
+h3 {
     color: #1f1f1f;
     text-align: center;
-    font-size: medium;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 div.images {
@@ -29,4 +30,5 @@ div.images {
     text-align: center;
     color: coral;
     font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
 }
